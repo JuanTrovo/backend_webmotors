@@ -7,7 +7,7 @@
   "scripts": {
     "start": "json-server --watch db.json --port 3000"
   },
-  "author": "Eliton Camargo de Oliveira",
+  "author": "Juan Trovo Del Valle",
   "license": "ISC",
   "dependencies": {
     "json-server": "^1.0.0-beta.3"
